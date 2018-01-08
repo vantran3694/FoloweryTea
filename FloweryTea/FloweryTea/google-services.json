@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1050847703550",
+    "firebase_url": "https://flowerytea-a127c.firebaseio.com",
+    "project_id": "flowerytea-a127c",
+    "storage_bucket": "flowerytea-a127c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050847703550:android:47d80f38b97b9b68",
+        "android_client_info": {
+          "package_name": "FloweryTea.FloweryTea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050847703550-cjcnjki0f544jo2spudn86dj2g8f52fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "FloweryTea.FloweryTea",
+            "certificate_hash": "569e827c2c988962c7b5171bd78c3c2706a83f45"
+          }
+        },
+        {
+          "client_id": "1050847703550-qdvboobk39btne68v4jth9qc3tu2beh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5GBdb_n1uQ_IFYHDByX6MVIC-pnTXgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050847703550-qdvboobk39btne68v4jth9qc3tu2beh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
